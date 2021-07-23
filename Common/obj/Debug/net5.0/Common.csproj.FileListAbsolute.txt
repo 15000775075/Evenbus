@@ -1,0 +1,12 @@
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.AssemblyInfoInputs.cache
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.AssemblyInfo.cs
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.csproj.CoreCompileInputs.cache
+F:\YM\Evenbus\Common\bin\Debug\net5.0\Common.deps.json
+F:\YM\Evenbus\Common\bin\Debug\net5.0\Common.dll
+F:\YM\Evenbus\Common\bin\Debug\net5.0\ref\Common.dll
+F:\YM\Evenbus\Common\bin\Debug\net5.0\Common.pdb
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.dll
+F:\YM\Evenbus\Common\obj\Debug\net5.0\ref\Common.dll
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.pdb
+F:\YM\Evenbus\Common\obj\Debug\net5.0\Common.csproj.AssemblyReference.cache

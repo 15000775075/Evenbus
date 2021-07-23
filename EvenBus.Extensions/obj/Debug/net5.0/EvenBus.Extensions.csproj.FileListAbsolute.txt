@@ -1,0 +1,15 @@
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.AssemblyInfoInputs.cache
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.AssemblyInfo.cs
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.csproj.CoreCompileInputs.cache
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.csproj.AssemblyReference.cache
+F:\YM\Evenbus\EvenBus.Extensions\bin\Debug\net5.0\EvenBus.Extensions.deps.json
+F:\YM\Evenbus\EvenBus.Extensions\bin\Debug\net5.0\EvenBus.Extensions.dll
+F:\YM\Evenbus\EvenBus.Extensions\bin\Debug\net5.0\ref\EvenBus.Extensions.dll
+F:\YM\Evenbus\EvenBus.Extensions\bin\Debug\net5.0\EvenBus.Extensions.pdb
+F:\YM\Evenbus\EvenBus.Extensions\bin\Debug\net5.0\Common.dll
+F:\YM\Evenbus\EvenBus.Extensions\bin\Debug\net5.0\Common.pdb
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.csproj.CopyComplete
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.dll
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\ref\EvenBus.Extensions.dll
+F:\YM\Evenbus\EvenBus.Extensions\obj\Debug\net5.0\EvenBus.Extensions.pdb
